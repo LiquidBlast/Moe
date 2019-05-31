@@ -128,9 +128,12 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+CMakeLists.txt
 
 ### CMake Patch ###
 # External projects
 *-prefix/
+
+moe
 
 # End of https://www.gitignore.io/api/c++,cmake,clion

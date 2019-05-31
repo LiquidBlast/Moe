@@ -3,4 +3,4 @@ project(moe)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(moe src/main.cpp)
+add_executable(moe src/main.cpp src/h/Flags.h)
